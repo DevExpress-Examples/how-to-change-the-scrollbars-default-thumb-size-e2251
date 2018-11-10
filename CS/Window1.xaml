@@ -1,11 +1,10 @@
-﻿<Window 
-    x:Class="WpfGridScrollbar.Window1" 
+<Window x:Class="WpfGridScrollbar.Window1" 
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
     xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" 
     xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core" 
     xmlns:sys="clr-namespace:System;assembly=mscorlib" 
-    xmlns:dxt="clr-namespace:DevExpress.Xpf.Utils.Themes;assembly=DevExpress.Xpf.Core.v10.2"
+    xmlns:dxt="clr-namespace:DevExpress.Xpf.Utils.Themes;assembly=DevExpress.Xpf.Core.v13.1"
     Title="Window1" 
     Height="489" 
     Width="815" 
