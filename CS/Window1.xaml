@@ -4,7 +4,7 @@
     xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" 
     xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core" 
     xmlns:sys="clr-namespace:System;assembly=mscorlib" 
-    xmlns:dxt="clr-namespace:DevExpress.Xpf.Utils.Themes;assembly=DevExpress.Xpf.Core.v13.1"
+    xmlns:dxt="clr-namespace:DevExpress.Xpf.Utils.Themes;assembly=DevExpress.Xpf.Core.v11.2"
     Title="Window1" 
     Height="489" 
     Width="815" 
